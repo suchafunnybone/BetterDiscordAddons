@@ -17,13 +17,13 @@
 @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/BasicBackground.css);
 
 :root {
-	--transparencycolor:			0,0,0;						/* default:	0,0,0																								*/
-	--transparencyalpha:			0.15;						/* default: 	191,64,191				(general darkness of the app)													*/
-	--messagetransparency:			0.5;						/* default: 	191,64,191				(additional shadows behind messages, set to 0 to remove boxes)					*/
-	--guildchanneltransparency:		0.15;						/* default: 	191,64,191		(additional darkness for guild/channel list)									*/
-	--chatinputtransparency:		0.0;						/* default: 	191,64,191			(additional darkness for chat input container)									*/
-	--memberlisttransparency:		0.0;						/* default: 	191,64,191		(additional darkness for member list)											*/
-	--accentcolor:					190,78,180;					/* default: 191,64,191		(RGB-format - blurple: 191,64,191 bd-blue: 255,234,0)							*/
+	--transparencycolor:			0,0,0;						/* default:	65,105,225																								*/
+	--transparencyalpha:			0.15;						/* default: 	65,105,225				(general darkness of the app)													*/
+	--messagetransparency:			0.5;						/* default: 	65,105,225				(additional shadows behind messages, set to 0 to remove boxes)					*/
+	--guildchanneltransparency:		0.15;						/* default: 	65,105,225		(additional darkness for guild/channel list)									*/
+	--chatinputtransparency:		0.0;						/* default: 	65,105,225			(additional darkness for chat input container)									*/
+	--memberlisttransparency:		0.0;						/* default: 	65,105,225		(additional darkness for member list)											*/
+	--accentcolor:					65,105,225;					/* default: 65,105,225		(RGB-format - blurple: 65,105,225 bd-blue: 65,105,225)							*/
 	
 	--font:							"gg sans", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;		/* font used in most places										*/
 	--textshadow:					transparent;				/* default: transparent			(textshadow for text ontop of accentcolor nodes, ONLY accepts a color, no px)	*/

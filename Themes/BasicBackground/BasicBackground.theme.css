@@ -29,7 +29,7 @@
 	--textshadow:					transparent;				/* default: transparent			(textshadow for text ontop of accentcolor nodes, ONLY accepts a color, no px)	*/
 	--settingsicons:				1;							/* Use Settings Icons in User Settings: 1 = yes, 0 = no															*/
 	
-	--background:					url(https://animecorner.me/wp-content/uploads/2022/07/Call-of-the-Night-non-credit-ending-10.jpg);	/* general background image				*/
+	--background:					url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/28a05f95-095c-492e-910a-a7da380088a6/dfakq70-3761ab11-5298-49ac-b201-55cf0313e31f.png/v1/fill/w_1191,h_671,q_70,strp/nazuna_nanakusa___sky_wallpaper_by_lorycave_dfakq70-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIxIiwicGF0aCI6IlwvZlwvMjhhMDVmOTUtMDk1Yy00OTJlLTkxMGEtYTdkYTM4MDA4OGE2XC9kZmFrcTcwLTM3NjFhYjExLTUyOTgtNDlhYy1iMjAxLTU1Y2YwMzEzZTMxZi5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.8YshKHh128bP188F0My8PpzkGYFpVCM5UFjPted17bM);	/* general background image				*/
 	--backgroundposition:			center;						/* default: center				(position of background - values: [center/top/right/bottom/left])				*/
 	--backgroundsize:				cover;						/* default: cover				(sizefit of background - values: [cover/contain/auto])							*/
 	--backgroundblur:				unset;						/* default: unset				(blur in px, only works when --background is set to an image)					*/

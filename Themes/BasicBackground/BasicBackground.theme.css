@@ -20,16 +20,16 @@
 	--transparencycolor:			0,0,0;						/* default:	0,0,0																								*/
 	--transparencyalpha:			0.15;						/* default: 0.15				(general darkness of the app)													*/
 	--messagetransparency:			0.5;						/* default: 0.5					(additional shadows behind messages, set to 0 to remove boxes)					*/
-	--guildchanneltransparency:		0.15;						/* default: 31,81,255			(additional darkness for guild/channel list)									*/
-	--chatinputtransparency:		0.0;						/* default: 31,81,255				(additional darkness for chat input container)									*/
-	--memberlisttransparency:		0.0;						/* default: 31,81,255			(additional darkness for member list)											*/
-	--accentcolor:					190,78,180;					/* default: 31,81,255		(RGB-format - blurple: 88,101,242 bd-blue: 58,113,193)							*/
+	--guildchanneltransparency:		0.15;						/* default: 191,64,191		(additional darkness for guild/channel list)									*/
+	--chatinputtransparency:		0.0;						/* default: 191,64,191			(additional darkness for chat input container)									*/
+	--memberlisttransparency:		0.0;						/* default: 191,64,191		(additional darkness for member list)											*/
+	--accentcolor:					190,78,180;					/* default: 191,64,191		(RGB-format - blurple: 191,64,191 bd-blue: 255,234,0)							*/
 	
 	--font:							"gg sans", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;		/* font used in most places										*/
 	--textshadow:					transparent;				/* default: transparent			(textshadow for text ontop of accentcolor nodes, ONLY accepts a color, no px)	*/
 	--settingsicons:				1;							/* Use Settings Icons in User Settings: 1 = yes, 0 = no															*/
 	
-	--background:					url(https://static1.cbrimages.com/wordpress/wp-content/uploads/2022/09/nazuna-helpful-face.jpg);	/* general background image				*/
+	--background:					url(https://coub-attachments.akamaized.net/coub_storage/coub/simple/cw_timeline_pic/4d1510ee033/373a32d9c68e0f3049862/med_1671711957_image.jpg);	/* general background image				*/
 	--backgroundposition:			center;						/* default: center				(position of background - values: [center/top/right/bottom/left])				*/
 	--backgroundsize:				cover;						/* default: cover				(sizefit of background - values: [cover/contain/auto])							*/
 	--backgroundblur:				unset;						/* default: unset				(blur in px, only works when --background is set to an image)					*/
